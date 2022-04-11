@@ -24,3 +24,5 @@ Kodluyoruz Front End Kapsamında İlk Eğitim Reposu.
 
 [MIT](https://github.com/tubamhd/kodluyoruzrepoilk)
 
+
+![PHOTO-2022-04-11-22-27-13](https://user-images.githubusercontent.com/100489341/162814980-facb2c6a-4991-4e18-8907-46298c01f4c4.jpg)
